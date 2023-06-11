@@ -2,7 +2,7 @@
 
 
 
-本仓库由[公众号【自动驾驶之心】](https://mp.weixin.qq.com/s/EfrWi-yXRGowOIkCDEsmfw)团队整理，欢迎关注，一览最前沿的技术分享！
+本仓库由[公众号【自动驾驶之心】](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247542481&idx=1&sn=c6d8609491a128233c3c3b91d68d22a6&chksm=ceb80b18f9cf820e789efd75947633aec9d2f1e8b58c29e5051c05a64b21ae63c244d54886a1&token=11182364&lang=zh_CN#rd) 团队整理，欢迎关注，一览最前沿的技术分享！
 
 自动驾驶与AI学习社区：欢迎加入国内首个自动驾驶开发者社区！这里有最全面有效的自动驾驶与AI学习路线（感知/定位/融合）和自动驾驶与AI公司内推机会！
 
@@ -24,7 +24,7 @@ Deep Depth Completion from Extremely SparseData: A Survey
 
 ## 二、单目深度估计
 
-### 1.监督学习
+### 1. 监督学习
 
 BTS: From Big to Small
 
@@ -34,7 +34,7 @@ Boosting monocular depth with panoptic segmentation maps (WACV2021)
 
 Lightweight Monocular Depth Estimation
 
-### 2.自监督学习
+### 2. 自监督学习
 
 Digging Into Self-Supervised Monocular Depth Estimation
 
@@ -54,13 +54,13 @@ Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera I
 
 BiFuse++ : Self-supervised and Efficient Bi-projection Fusion for 360°Depth Estimation
 
-### 3.半监督学习
+### 3. 半监督学习
 
 Semi-supervised deep learning for monocular depth map prediction (CVPR2017)
 
 Semi-Supervised Learning with Mutual Distillation for Monocular Depth Estimation
 
-### 4.无监督学习
+### 4. 无监督学习
 
 Unsupervised Learning of Depth, Optical Flow and Pose with Occlusion from 3D Geometry (TIP2020)
 
@@ -74,7 +74,7 @@ LightDepth: A Resource Efficient Depth Estimation Approach for Dealing with Grou
 
 ## 三、基于双目计算的深度估计
 
-### 1.监督学习
+### 1. 监督学习
 
 Occlusions, Motion and Depth Boundaries with a Generic Network for Disparity, Optical Flow or Scene FlowEstimation (ECCV2018)
 
@@ -90,7 +90,7 @@ Multi-View Stereo by Temporal Nonparametric Fusion (ICCV2019)
 
 Depth Estimation maps of lidar and stereo images
 
-## 2.无监督学习
+## 2. 无监督学习
 
 Practical deep stereo (pds):Toward applications-friendly deep stereo matching (NIPS2018)
 
@@ -104,7 +104,7 @@ Unsupervised adaptation for deep stereo (ICCV2017)
 
 [[Code]](https://github.com/CVLAB-Unibo/Unsupervised-Adaptation-for-Deep-Stereo)
 
-### 3.自监督学习
+### 3. 自监督学习
 
 SegStereo: Exploiting semantic information for disparity estimation(ECCV2018)
 
