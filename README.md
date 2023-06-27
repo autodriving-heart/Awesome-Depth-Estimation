@@ -8,7 +8,7 @@
 
 
 
-## 一、综述 Survey
+## 一、Survey
 
 Deep Learning based Monocular Depth Prediction_ Datasets, Methods and Applications
 
@@ -22,9 +22,9 @@ On the Synergies between Machine Learning and Binocular Stereo for Depth Estimat
 
 Deep Depth Completion from Extremely SparseData: A Survey
 
-## 二、单目深度估计
+## 二、Monocular depth estimation
 
-### 1. 监督学习
+### 1. Supervised learning
 
 BTS: From Big to Small
 
@@ -34,7 +34,7 @@ Boosting monocular depth with panoptic segmentation maps (WACV2021)
 
 Lightweight Monocular Depth Estimation
 
-### 2. 自监督学习
+### 2. Self-supervised learning
 
 Digging Into Self-Supervised Monocular Depth Estimation
 
@@ -54,13 +54,13 @@ Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera I
 
 BiFuse++ : Self-supervised and Efficient Bi-projection Fusion for 360°Depth Estimation
 
-### 3. 半监督学习
+### 3. Semi-supervised learning
 
 Semi-supervised deep learning for monocular depth map prediction (CVPR2017)
 
 Semi-Supervised Learning with Mutual Distillation for Monocular Depth Estimation
 
-### 4. 无监督学习
+### 4. Unsupervised learning
 
 Unsupervised Learning of Depth, Optical Flow and Pose with Occlusion from 3D Geometry (TIP2020)
 
@@ -72,9 +72,9 @@ LightDepth: A Resource Efficient Depth Estimation Approach for Dealing with Grou
 
 [[Code]](https://github.com/fatemehkarimii/LightDepth)
 
-## 三、基于双目计算的深度估计
+## 三、Stereo Depth estimation
 
-### 1. 监督学习
+### 1. Supervised learning
 
 Occlusions, Motion and Depth Boundaries with a Generic Network for Disparity, Optical Flow or Scene FlowEstimation (ECCV2018)
 
@@ -90,7 +90,7 @@ Multi-View Stereo by Temporal Nonparametric Fusion (ICCV2019)
 
 Depth Estimation maps of lidar and stereo images
 
-## 2. 无监督学习
+## 2. Unsupervised learning
 
 Practical deep stereo (pds):Toward applications-friendly deep stereo matching (NIPS2018)
 
@@ -104,13 +104,13 @@ Unsupervised adaptation for deep stereo (ICCV2017)
 
 [[Code]](https://github.com/CVLAB-Unibo/Unsupervised-Adaptation-for-Deep-Stereo)
 
-### 3. 自监督学习
+### 3. Self-supervised learning
 
 SegStereo: Exploiting semantic information for disparity estimation(ECCV2018)
 
 [[Code]](https://github.com/yangguorun/SegStereo)
 
-### 四、多方法深度估计
+### 四、Multi-method depth estimation
 
 Unifying Flow,Stereo and Depth Estimation
 
